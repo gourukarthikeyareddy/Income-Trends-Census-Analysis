@@ -1,4 +1,4 @@
-# Income-Trends-Census-Analysis
+## Income-Trends-Census-Analysis
 
 # INTRODUCTION:
 In the era of data-driven insights, the Census Income dataset serves as a key resource for unraveling socio-economic complexities. Comprising demographic features such as age, education, and occupation, it forms the foundation for a classification problem for predicting income levels. Our aim here is to try and leverage the predictive potential of this information to discern patterns influencing an individual's income, specifically predicting whether it exceeds $50,000 annually.
@@ -9,7 +9,7 @@ A critical challenge in socio-economic research revolves around the absence of a
 # Data Source:
 Link to the UCI repository: https://archive.ics.uci.edu/dataset/20/census+income
 
-# Conclusion: -
+# Conclusion:
 Using the Census Income information, we set out to create an excellent prediction model for identifying income levels. After experimenting with many machine learning methods, including K-Nearest Neighbors (KNN) clustering, Support Vector Machines (SVM), Naive Bayes, and Logistic Regression, the findings show that Logistic Regression is the best resilient and accurate approach for the task.
 
 # Key findings:
