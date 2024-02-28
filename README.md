@@ -1,6 +1,6 @@
 ## Income-Trends-Census-Analysis
 
-# INTRODUCTION:
+# Introduction:
 In the era of data-driven insights, the Census Income dataset serves as a key resource for unraveling socio-economic complexities. Comprising demographic features such as age, education, and occupation, it forms the foundation for a classification problem for predicting income levels. Our aim here is to try and leverage the predictive potential of this information to discern patterns influencing an individual's income, specifically predicting whether it exceeds $50,000 annually.
 
 # Problem Statement:
